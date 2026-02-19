@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #4772aa;
+}
+h1 {
+    color: #ab46fd;
+}
+blockquote {
+    font-style: italic;
+    color: #11ff6c;
+    border-left: 4px ;
+    padding-left: 10px;
+    margin-left: 0;
+}
